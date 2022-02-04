@@ -9,7 +9,7 @@ namespace Threads
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
             //FizzBuzz 
             
         }

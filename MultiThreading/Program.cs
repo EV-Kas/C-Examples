@@ -34,5 +34,10 @@ namespace MultiThreading
             Task task = Task.Run(() => Console.WriteLine($"This is thirdWay part 1 from thread: {Thread.CurrentThread.ManagedThreadId}"));
             task.Wait();
         }
+
+        static void SomeMethod1()
+        {
+            
+        }
     }
 }

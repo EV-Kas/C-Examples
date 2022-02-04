@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mi\\Desktop\\Code\\C-Examples\\Delegates\\Delegates.csproj",
+      "projectUniqueName": "C:\\Users\\mi\\Desktop\\Code\\Examples\\Delegates\\Delegates.csproj",
       "projectName": "Delegates",
-      "projectPath": "C:\\Users\\mi\\Desktop\\Code\\C-Examples\\Delegates\\Delegates.csproj",
+      "projectPath": "C:\\Users\\mi\\Desktop\\Code\\Examples\\Delegates\\Delegates.csproj",
       "packagesPath": "C:\\Users\\mi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mi\\Desktop\\Code\\C-Examples\\Delegates\\obj\\",
+      "outputPath": "C:\\Users\\mi\\Desktop\\Code\\Examples\\Delegates\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -59,12 +59,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.12, 5.0.12]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

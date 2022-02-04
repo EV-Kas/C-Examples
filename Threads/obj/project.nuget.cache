@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hcv7tPiuc5iBNnq4rzomcqgJ7z/aVx6b1rOkuta+BuOk1lFpjrzHjBl5KydMnhKjVVNxUr3cscUQSw3CgEpCZw==",
+  "dgSpecHash": "TmEQp6JZmmY/9gxOGF5FjQihfaWXLCkHqXlYz86DiiQgGyyIvzQUMnxxFPCOlGQtFq6DoVGgVC+yTx6KjOnXwA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mi\\Desktop\\Code\\C-Examples\\Threads\\Threads.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mi\\Desktop\\Code\\Examples\\Threads\\Threads.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

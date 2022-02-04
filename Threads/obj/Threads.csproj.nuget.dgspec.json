@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mi\\Desktop\\Code\\C-Examples\\Threads\\Threads.csproj": {}
+    "C:\\Users\\mi\\Desktop\\Code\\Examples\\Threads\\Threads.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mi\\Desktop\\Code\\C-Examples\\Threads\\Threads.csproj": {
+    "C:\\Users\\mi\\Desktop\\Code\\Examples\\Threads\\Threads.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mi\\Desktop\\Code\\C-Examples\\Threads\\Threads.csproj",
+        "projectUniqueName": "C:\\Users\\mi\\Desktop\\Code\\Examples\\Threads\\Threads.csproj",
         "projectName": "Threads",
-        "projectPath": "C:\\Users\\mi\\Desktop\\Code\\C-Examples\\Threads\\Threads.csproj",
+        "projectPath": "C:\\Users\\mi\\Desktop\\Code\\Examples\\Threads\\Threads.csproj",
         "packagesPath": "C:\\Users\\mi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mi\\Desktop\\Code\\C-Examples\\Threads\\obj\\",
+        "outputPath": "C:\\Users\\mi\\Desktop\\Code\\Examples\\Threads\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -52,12 +52,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.12, 5.0.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

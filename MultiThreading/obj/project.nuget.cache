@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bVYbDaKw/5MqWbroUzss4SHmJxh1pYA0sKy7DpD0f7M4HINkam/oFsLIlPzD40PW2m2WUGNyHqjelFzqcpDhUg==",
+  "dgSpecHash": "2B+5eyQjIaLp/xN1hHd7Fka4wIpCDQogjtEEi11InFyk+J07LTYzJG7aht0dGtMwRfst65cwYWcgkpFCs8dLGg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mi\\Desktop\\Code\\C-Examples\\MultiThreading\\MultiThreading.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\mi\\Desktop\\Code\\Examples\\MultiThreading\\MultiThreading.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
