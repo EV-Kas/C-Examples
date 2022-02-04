@@ -39,5 +39,10 @@ namespace MultiThreading
         {
             
         }
+
+        static void Some2()
+        {
+            
+        }
     }
 }
